@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "version": "2.1",
-    "title": "Rebilly REST API",
+    "title": "RBlah REST API",
     "contact": {
       "name": "Rebilly API Support",
       "url": "https://www.rebilly.com/contact/",
